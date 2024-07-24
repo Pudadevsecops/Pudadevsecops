@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pudadevsecops
-- 👀 I’m interested in Information Security
+- 👀 I’m interested in defensive and offensive security
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can contact me via pudadevsecops@protonmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Security is a Hoax, Knowledge is Power
+- ⚡ Fun fact: Security is a hoax, knowledge is power
